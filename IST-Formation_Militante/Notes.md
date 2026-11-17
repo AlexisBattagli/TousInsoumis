@@ -1,7 +1,7 @@
 # Vidéo de Formation Militante
 
 ## Épisode 1 : Qu'est-ce que la France Insoumise ?
-## url : https://youtu.be/8hSFnMWQe28
+** Vidéo ** [Qu'est-ce que la France Insoumise ?](https://youtu.be/8hSFnMWQe28)
 
 ### D'où vient la FI ? Pourquoi et Comment a-t-elle été créée ?
 Mouvement lancé en 2016
@@ -88,12 +88,12 @@ Ce résume à la volonté d'aspirer à une révolution citopyenne.
 Unir tout les pens de la société qui ont un intérêt pour changer la société
 Création d'un bloc de rupture.
 
-Il faut aller cherche les abstentionistes
+Il faut aller cherche les abstentionnistes
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## Épisode 2 : Comment militer insoumis.e ?
-## url : 
+## url :  https://www.youtube.com/watch?v=IgpYByN1FRM
 
 ### Comment faire pour militer la FI ?
 1 - Soutenir la candidature de JLM sur Melenchon2027. Pas besoin de carte, c'est un mouvement ouvert
@@ -148,10 +148,10 @@ Indiquer l'évenement de pàp sur Action Populaire, et ciblé le pàp via le sit
 	> ne pas traiter la question au sein de la GA, cela peu empirer la situation
 	> pour les question de discrimination autre que le sexisme, contacter le comité de respect des principes : comite-respect-principes@lafranceinsoumise.fr
 	
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## Épisode 3 : Qu'est-ce que le matérialisme historique, et comment nous aide-t-il à comprendre le Monde ?
-## url : 
+** Vidéo ** [Qu'est-ce que le matérialisme historique, et comment nous aide-t-il à comprendre le Monde ?](https://www.youtube.com/watch?v=VNEojniyrec)
 
 ### Le "Matérialisme historique" : qu'est-ce que cela signifie ?
 Théorie de Marx et Engels, aussi appelé Marxisme.
@@ -223,5 +223,32 @@ La théorie du matérialisme historique est un guide, elle n'est pas figée. C'e
 
 La dimension mondiale du capitalisme, implique des rapport de domination spécifique, que l'on nomme l'Impérialisme. L'unification se fait en produisant des inégalités et asymétrie et rapport de domination entre des formation sociales entre-elles, tel que ce qui a été fait par les expentions coloniales. Cet impérialisme continue encore aujourd'hui.
 
+---
+
+## Épisode 4 : Qu'est-ce que la théorie de l'ère du peuple et de la révolution citoyenne ?
+** Vidéo ** [Qu'est-ce que la théorie de l'ère du peuple et de la révolution citoyenne ?]()
+
+### D'où vient cette théorie et pourquoi un tel besoin d'une noubelle théorie ?
+Ensemble de réflexion, grille d'analyse développé par Melenchon visant à analyse le Capitaliste de notre époque, les rapports de dominations, rapports sociaux, et les possibilité de changement social à notre époque.
+Cette théorie vient du fait que le marxisme (matérialisme historique) ne colle plus totalement avec le capitalisme moderne (XXI siècle). Cela fait partie du concept même du marxisme, d'être adapté à l'évolution du capitalisme.
+
+(à complèter, pas clair)
+
+### Quelles limites liées aux conditions actuelles du développement du capitaliste, la théorie de l'ère du peuple ajoute comme limites supplémentaire à celles décrites dans le marxisme ?
+
+#### Première nouvelle limite : Discordances des rythmes. 
+L'évolution de la population mondiale des dernières décennies a augmenté de façon exponentielle. Le capitalisme peut lui aussi être réduit à un rythme par la définition du **cycle du profit**. Une action de valeur A est vendu sur le marché M afin d'obtenir une somme d'argent A'  supérieur à A. 
+Ce cycle du profit crée une dynamique d’accélération des rythmes par la concurrences des capitalistes entre eux. Cette accélération peut être observée par la durée moyenne de détention d'une action. A la fin de la 2nd Guerre Mondiale, une action été détenue en moyenne 6 ans avant d'être revendue, puis à la fin des année 80, 2 ans, désormais 22 secondes !
+Le cycle du profit subordonne à lui le cycle des humain, ainsi que les cycles naturels, qui ont des rythmes totalement différent (ex : une nappe phréatique qui met 10 000 ans à se remplir, une forêt qui met 200 ans à arriver à maturité). Or avec un capitaliste mondialisé, son rythme rentre en choc avec l'ensemble de la nature.
+
+#### Deuxième nouvelle limite : Crise de la connaissance
+Puisque les cycles naturels sont modifiés, perturbés, par le changement climatique, nos connaissances du monde sont elles aussi perturbées. Il faut alors avoir une vision plus scientifique en comprenant les mécanismes détaillés de notre environnements.
+On pourrait penser qu'avec l'évolution du nombre d'être humain, il serait plus facile de faire circuler la connaissance. Sauf que, le capitalisme freine le processus de partage de la connaissance, en développement des système de propriété intellectuelle tel que les brevets.
+
+#### Crise écologique
+Ces deux nouvelles limites viennent s'ajoutent entre elles. La discordances des rythmes mène à la crise écologique, tandis que la crise de la connaissance nous empêche de nous y adapter.
+Ces deux nouvelles limites s'ajoutes à celles déjà mises en avant par Marx dans le marxisme, mais avec la crise écologique il y a une urgence à rompre avec ce système.
+
+### Autour de quelle nouvelle conflictualité sociale cette rupture est-elle possible ? La théorie de l'ère du peuple et de la révolution citoyenne actualise-t-elle aussi la théorie de la lutte des classes ?
 
 
