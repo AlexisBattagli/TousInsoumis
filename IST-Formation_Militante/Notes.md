@@ -275,3 +275,41 @@ Cette nouvelle conflictualité entre peuple et oligarchie apparaît plus forteme
 Ces formes de **révolution citoyenne**, ont tendances à se produire alors que survient une **rupture d'accès à un réseau essentiel** : augmentation de l'essence, du ticket de métro à Santiago, taxe whatsapp, etc... Elles portent des s**ujets individuels et collectifs féminins**, car elles revendiquent des ruptures de reproduction sociales dont les femmes sont souvent responsables. Autres caractéristiques de ces mouvements, c'est l**'occupation des espaces urbains** (rue, places, rond points...) comme expression démocratique, sans forcément passer par la grève. 
 
 Ces révolutions citoyennes revendiquent la **légitimité du pays et des institutions politiques**. A partir d'une rupture d'accès à un réseaux, elles montent rapidement en généralité jusqu'au remplacement du système. Il y a donc une première phase **instituante**, où elles s'installent comme sujet collectif, puis phase **destituante** bien plus politique, et enfin une phase **constituante** afin de construire un autre ordre. Ceci explique pourquoi la convocation d'une assemblé constituante est si importante dans la stratégie de la révolution citoyenne. Une révolution citoyenne n'aboutie pas nécessairement à la 3ème phase, mais même lorsqu'elle est stoppée, de nouvelles circonstance qui apparaissent par la suite les font ressurgir bien plus facilement, et ainsi aboutir.
+
+## Épisode 5 : Comment contrer l'économie dominante ?
+** Vidéo ** [Comment contrer l'économie dominante ?]()
+
+### Comment définir l'économie dominante et le néolibéralisme ? Et comment déconstruire leurs mythes ?
+L'économie dominante est le **Néolibéralisme** . Il a véritablement vue le jour avec Regan (US) et Tatcher (UK) dans les années 1980. 
+
+Dans ce modéle économique, l'**État est au service du marché**, c'est un agent économique qui fixe les règles du marché, et il joue le rôle d'arbitre. Le **marché est une construction politique** au services des intérêts privées. L'état intègre progressivement les modes de fonctionnement du néolibéralisme, ce qui a pour conséquences de promouvoir la marchandisation des biens publics, et développer une culture de l'économie néolibérale à l'ensemble des services publics. 
+
+Dans le néolibéralisme, ce qui compte c'est la production marchandes, réduisant l'humain à n'avoir comme seul plaisir et objectif d'accumuler des richesses matériels. L'objectif derrière tout ça est de dépolitisé l'économie, en faire quelques chose de l'ordre du naturel et indépendant.
+
+L'un des dogme du néolibéralisme est la **marchandisation**. Dès lors qu'il y a un problème économique, la solution est de passer par un marché. Ainsi toute activité humaine devient marchandise. Le marché est le meilleur outil de coordination des activité économique. On peut voir que la marchandisation des services publics mène toujours aux mêmes résultats, à savoir, dégradation du service et augmentation du coût. Quand tout est réduit à de la marchandisation, c'est aussi, et surtout, l'aspect humain qui en patie. 
+
+Un autre dogme sur lequel s'appui le néolibéralisme, est la **concurrence libre** de pouvoir de domination. Cela passe par la loi de l'offre et de la demande. Le problème est que cela mène à une concentration de la richesse, et une hausse des inégalité. 
+
+Autre dogme, la **responsabilité individuel**. L'idée étant que la société est composée non pas de classes sociales, mais d’individus interagissant en fonction de leur intérêt propre. La **responsabilité est alors rejeté systématiquement sur les individus**. Les malades doivent éviter de l'être, tout comme les chômeurs qui doivent retourner au travail (comme si s'était un choix). 
+
+Or l**'économie est bien politique**, avec des groupes sociaux qui ont des intérêts divergents, et donc des conflits. Le rôle de l'état est donc bien de discipliner et contrôler le marché pour faire en sorte que l'activité privée appuie ce qui est souhaité par l'état, et non l'inverse.
+
+### Qu'est-ce que la "politique de l'offre", comment fonctionne-elle et pourquoi est-ce une impasse ?
+Cette "politique" est mise en avant par Macron depuis 2017, mais elle date des années 80. Les néolibéraux impose l'idée que ces l'offre (la production) qui créé la demande, dicte la consommation. 
+
+L'état et les politiques publiques doivent ainsi favoriser avant toute chose les entreprises et leurs offres, plutôt que les gens et leurs demandes. On mise tout sur le fait que l'état doit aider le profit des entreprise. Ce qui implique une diminution des impôt pour les entreprises, les cotisations sociales des patrons, moins de normes, etc. 
+
+Les mesures prises dans ce sens de réduction des cotisations aux entreprise, depuis 2017 par Macron coûtent 90 Md€/an. Au même titre que sont versées 211 Md€/an d'aide aux entreprises, sans contrepartie. Macron s'est aussi attaqué aux "coût du travail", à savoir les salaires et la protection sociales (retraite, assurance maladie etc...). Macron défend tout ça par le raisonnement qu'en permettant aux entreprises de faire davantage de profits, elles vont pouvoir investir plus, augmenter les salaires, et ainsi tout le monde sera gagnant... (théorie du ruissellement ?). 
+
+Dans les faits,
+- le nombre d'entreprise défaillante a augmenté
+- l'investissement des entreprise a baissé. 
+- le nombre d'emploi n'a pas augmenté (pas de création d'emploi), le chômage a même augmenté (8.1% en 2026)
+- précarisation du travail, de plus en plus d'emploi au SMIC, et la moitié des emplois créé sont des entrepreneurs ou des contrat d’apprentissage. 
+- la consommation à régressé depuis quelques années. Si on prend en compte la hausse des prix comparé& à celle des salaire, on constate une baisse du salaire réel. 
+Conclusion, explosion des inégalités avec un taux record de pauvreté avec 15.4% (10 Millions de personnes pauvres en France). Contrairement à une réduction des inégalités en moyenne en Europe. 
+
+Le surplus de profit à profiter aux actionnaires, financiers et grandes fortunes, et non à augmenter les salaire et les investissement pour l'emploi.
+
+### LFI défend un "gouvernement par les besoins" et une "politique de la demande". Comment cela fonctionne-t-il ?
+
