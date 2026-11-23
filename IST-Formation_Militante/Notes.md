@@ -231,24 +231,47 @@ La dimension mondiale du capitalisme, implique des rapport de domination spécif
 ### D'où vient cette théorie et pourquoi un tel besoin d'une noubelle théorie ?
 Ensemble de réflexion, grille d'analyse développé par Melenchon visant à analyse le Capitaliste de notre époque, les rapports de dominations, rapports sociaux, et les possibilité de changement social à notre époque.
 Cette théorie vient du fait que le marxisme (matérialisme historique) ne colle plus totalement avec le capitalisme moderne (XXI siècle). Cela fait partie du concept même du marxisme, d'être adapté à l'évolution du capitalisme.
-
-(à complèter, pas clair)
+Toujours comprendre les événements de façon historique. Regarder un événements avec ce qui s'est passé avant pour le comprendre
 
 ### Quelles limites liées aux conditions actuelles du développement du capitaliste, la théorie de l'ère du peuple ajoute comme limites supplémentaire à celles décrites dans le marxisme ?
 
 #### Première nouvelle limite : Discordances des rythmes. 
 L'évolution de la population mondiale des dernières décennies a augmenté de façon exponentielle. Le capitalisme peut lui aussi être réduit à un rythme par la définition du **cycle du profit**. Une action de valeur A est vendu sur le marché M afin d'obtenir une somme d'argent A'  supérieur à A. 
 Ce cycle du profit crée une dynamique d’accélération des rythmes par la concurrences des capitalistes entre eux. Cette accélération peut être observée par la durée moyenne de détention d'une action. A la fin de la 2nd Guerre Mondiale, une action été détenue en moyenne 6 ans avant d'être revendue, puis à la fin des année 80, 2 ans, désormais 22 secondes !
-Le cycle du profit subordonne à lui le cycle des humain, ainsi que les cycles naturels, qui ont des rythmes totalement différent (ex : une nappe phréatique qui met 10 000 ans à se remplir, une forêt qui met 200 ans à arriver à maturité). Or avec un capitaliste mondialisé, son rythme rentre en choc avec l'ensemble de la nature.
+Le cycle du profit subordonne à lui le cycle des humains, ainsi que les cycles naturels, qui ont des rythmes totalement différent (ex : une nappe phréatique qui met 10 000 ans à se remplir, une forêt qui met 200 ans à arriver à maturité). Or avec un capitaliste mondialisé, son rythme rentre en choc avec l'ensemble de la nature.
 
 #### Deuxième nouvelle limite : Crise de la connaissance
 Puisque les cycles naturels sont modifiés, perturbés, par le changement climatique, nos connaissances du monde sont elles aussi perturbées. Il faut alors avoir une vision plus scientifique en comprenant les mécanismes détaillés de notre environnements.
 On pourrait penser qu'avec l'évolution du nombre d'être humain, il serait plus facile de faire circuler la connaissance. Sauf que, le capitalisme freine le processus de partage de la connaissance, en développement des système de propriété intellectuelle tel que les brevets.
+Marchandisation des connaissance par les brevets, ce qui stoppent la diffusion des connaissances.
 
 #### Crise écologique
 Ces deux nouvelles limites viennent s'ajoutent entre elles. La discordances des rythmes mène à la crise écologique, tandis que la crise de la connaissance nous empêche de nous y adapter.
 Ces deux nouvelles limites s'ajoutes à celles déjà mises en avant par Marx dans le marxisme, mais avec la crise écologique il y a une urgence à rompre avec ce système.
 
 ### Autour de quelle nouvelle conflictualité sociale cette rupture est-elle possible ? La théorie de l'ère du peuple et de la révolution citoyenne actualise-t-elle aussi la théorie de la lutte des classes ?
+Depuis 2008, plus de la moitié des humains vivent en ville, et non plus en milieux rural comme s'était le cas jusque là.
+En ville, il y a a un ensemble d'infrastructure (**réseau**) qui organisent la circulation de tous les bien de consommation (au sens large) entre les individus depuis la production. C'est réseaux prennent la forme d'infrastructures physiques, mais également de rapports sociaux.
+L'accès aux réseaux est donc indispensable, et structure dans le capitalisme des inégalités et par conséquent des conflits. 
 
+Les sociétés urbaines modernes, sont donc des **sociétés de réseaux**. Environ un tièr des personnes travaillent à construire ou entretenir ces réseaux. 
+Les réseaux sont ainsi nommé par les économistes des *monopoles naturels* car la gestion en concurrence amène des coups trop important, ils ne peuvent alors être géré que par un seul acteur. Ainsi, pour des capitalistes, mettre la main sur ces réseaux signifie avoir un contrôle directe sur l'ensemble des personnes sans aucune concurrence. Cela leur permet d'avoir un pouvoir énorme sur l'ensemble de la société. Ils peuvent ainsi créer des déserts de ces réseaux, instaurer des prix de monopole comme un droit d'accès, etc.
 
+On parle alors d'un **capitaliste tributaire**. Le capitaliste cherche à dominer les autres, pour ne plus avoir de concurrence par la prise de contrôle de ces réseaux. Depuis 1970, le capitalisme a de plus en plus de mal à faire du profit, la croissance mondiale a ainsi été divisé par 2. Les gains de productivité sont difficiles à trouver. Ceci conduit a une concurrence entre capitaliste beaucoup plus féroce, puisque le gâteau ne grossi pas assez vite pour satisfaire la croissance. Le contrôle des grands réseaux, sans concurrence, apparaît alors comme une solution à ce problème. 
+
+Parmi les grands réseaux on peut citer :
+- le réseau numérique (les informations)
+- le réseau logistique (les marchandises)
+- le réseau financier (l'argent)
+- le réseau énergétique
+
+On retrouve logiquement à la tête de ces grands réseaux les plus puissantes entreprises mondiales. Parmi les 10 premières entreprise boursière, 7 sont des entreprises numériques. Parmi les milliardaires les plus influents en France, on peut cité Boloré et Sahadé qui ont fait fortune dans le réseau logistique, ou encore Nihel dans le réseau numérique.
+
+Il y a donc bien un **conflit de classe,** entre ceux qui subissent l'organisation des réseaux (le **peuple**), et ceux qui contrôle ces réseaux à leur propre profit (l'**oligarchie**). Ce conflit n'annule pas pour autant celui de classe entre prolétaire et bourgeois, puisqu'il y a toujours besoin de produire. En revanche il s'étend à davantage de monde que le salariat, tel que les retraité, les artisans, etc. C'est donc une extension de la lutte des classes.
+
+### Cette nouvelle lutte des classes entraîne des mouvements révolutionnaires d'un type nouveaux : les "révolutions citoyennes". De quoi s'agit-il ?
+Cette nouvelle conflictualité entre peuple et oligarchie apparaît plus fortement depuis environ 25 ans dans différents mouvement, révolution et révolte à travers le monde. Bolivie, Equateur, Venezuella dans les années 2000, ou encore Espagne, Tunisie, Egypte, Grèce, Liban, Alégérie, France dans les années 2010.
+
+Ces formes de **révolution citoyenne**, ont tendances à se produire alors que survient une **rupture d'accès à un réseau essentiel** : augmentation de l'essence, du ticket de métro à Santiago, taxe whatsapp, etc... Elles portent des s**ujets individuels et collectifs féminins**, car elles revendiquent des ruptures de reproduction sociales dont les femmes sont souvent responsables. Autres caractéristiques de ces mouvements, c'est l**'occupation des espaces urbains** (rue, places, rond points...) comme expression démocratique, sans forcément passer par la grève. 
+
+Ces révolutions citoyennes revendiquent la **légitimité du pays et des institutions politiques**. A partir d'une rupture d'accès à un réseaux, elles montent rapidement en généralité jusqu'au remplacement du système. Il y a donc une première phase **instituante**, où elles s'installent comme sujet collectif, puis phase **destituante** bien plus politique, et enfin une phase **constituante** afin de construire un autre ordre. Ceci explique pourquoi la convocation d'une assemblé constituante est si importante dans la stratégie de la révolution citoyenne. Une révolution citoyenne n'aboutie pas nécessairement à la 3ème phase, mais même lorsqu'elle est stoppée, de nouvelles circonstance qui apparaissent par la suite les font ressurgir bien plus facilement, et ainsi aboutir.
