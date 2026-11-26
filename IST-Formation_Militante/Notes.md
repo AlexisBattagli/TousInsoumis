@@ -96,13 +96,13 @@ Il faut aller cherche les abstentionnistes
 ## url :  https://www.youtube.com/watch?v=IgpYByN1FRM
 
 ### Comment faire pour militer la FI ?
-1 - Soutenir la candidature de JLM sur Melenchon2027. Pas besoin de carte, c'est un mouvement ouvert
-2 - Rejoindre un Groupe d'Action (GA) via action populaire
-	> Diffusion de tract, porte à porte etc...
-	> Action de solidatiré (ex: Collecte)
-	> une réunion mensuel de planification d'action (=> aller vers l'extérieur !)
-3 - Télécharger l'application Action Populaire, utile pour l'organisation et le suivis des personnes rencontrés (prise de contact)
-4 - Vérifier que l'on est bien inscrit sur les listes électorales !
+1. Soutenir la candidature de JLM sur Melenchon2027. Pas besoin de carte, c'est un mouvement ouvert
+2. Rejoindre un Groupe d'Action (GA) via action populaire
+    - Diffusion de tract, porte à porte etc...
+    - Action de solidarité (ex: Collecte)
+    - une réunion mensuel de planification d'action (=> aller vers l'extérieur !)
+3. Télécharger l'application Action Populaire, utile pour l'organisation et le suivis des personnes rencontrés (prise de contact)
+4. Vérifier que l'on est bien inscrit sur les listes électorales !
 
 40 000 actions depuis mai
 
@@ -141,13 +141,13 @@ Indiquer l'évenement de pàp sur Action Populaire, et ciblé le pàp via le sit
 ### La France Insoumise est un mouvement féministe, antiraciste, anti-LGBTphobie, etc. Comment ces principes se traduisent-ils dans les pratiques militantes ?
 - Principe et charte que tout insoumis s'engage à respecter, ex P04 : "La FI est mouvement inclusif et bienveillant, pas de propos violant et discriminant"
 - Bonnes pratiques à appliquer pour respecter cela : 
-	> attention à la répartition genré des tâches
-	> ne pas invisibilisé des personnes qui le sont déjà dans la société
-	> faire attention au personnes qui se mettent en retrait d'un GA, cela peut vouloir indiquer un problème
-	> ne pas minimiser les faits, et orienter les personnes concernées de sexisme vers le comité de suivis contre les violences sexistes et sexuelles (comite-violences-sexistes-sexuelles@lafranceinsoumise.fr)
-	> ne pas traiter la question au sein de la GA, cela peu empirer la situation
-	> pour les question de discrimination autre que le sexisme, contacter le comité de respect des principes : comite-respect-principes@lafranceinsoumise.fr
-	
+    - attention à la répartition genré des tâches
+    - ne pas invisibilisé des personnes qui le sont déjà dans la société
+    - faire attention au personnes qui se mettent en retrait d'un GA, cela peut vouloir indiquer un problème
+    - ne pas minimiser les faits, et orienter les personnes concernées de sexisme vers le comité de suivis contre les violences sexistes et sexuelles (comite-violences-sexistes-sexuelles@lafranceinsoumise.fr)
+    - ne pas traiter la question au sein de la GA, cela peu empirer la situation
+	- pour les question de discrimination autre que le sexisme, contacter le comité de respect des principes : comite-respect-principes@lafranceinsoumise.fr
+
 ---
 
 ## Épisode 3 : Qu'est-ce que le matérialisme historique, et comment nous aide-t-il à comprendre le Monde ?
@@ -276,6 +276,8 @@ Ces formes de **révolution citoyenne**, ont tendances à se produire alors que 
 
 Ces révolutions citoyennes revendiquent la **légitimité du pays et des institutions politiques**. A partir d'une rupture d'accès à un réseaux, elles montent rapidement en généralité jusqu'au remplacement du système. Il y a donc une première phase **instituante**, où elles s'installent comme sujet collectif, puis phase **destituante** bien plus politique, et enfin une phase **constituante** afin de construire un autre ordre. Ceci explique pourquoi la convocation d'une assemblé constituante est si importante dans la stratégie de la révolution citoyenne. Une révolution citoyenne n'aboutie pas nécessairement à la 3ème phase, mais même lorsqu'elle est stoppée, de nouvelles circonstance qui apparaissent par la suite les font ressurgir bien plus facilement, et ainsi aboutir.
 
+---
+
 ## Épisode 5 : Comment contrer l'économie dominante ?
 ** Vidéo ** [Comment contrer l'économie dominante ?]()
 
@@ -284,32 +286,80 @@ L'économie dominante est le **Néolibéralisme** . Il a véritablement vue le j
 
 Dans ce modéle économique, l'**État est au service du marché**, c'est un agent économique qui fixe les règles du marché, et il joue le rôle d'arbitre. Le **marché est une construction politique** au services des intérêts privées. L'état intègre progressivement les modes de fonctionnement du néolibéralisme, ce qui a pour conséquences de promouvoir la marchandisation des biens publics, et développer une culture de l'économie néolibérale à l'ensemble des services publics. 
 
-Dans le néolibéralisme, ce qui compte c'est la production marchandes, réduisant l'humain à n'avoir comme seul plaisir et objectif d'accumuler des richesses matériels. L'objectif derrière tout ça est de dépolitisé l'économie, en faire quelques chose de l'ordre du naturel et indépendant.
+Dans le néolibéralisme, ce qui compte c'est la production marchandes, réduisant l'humain à n'avoir comme seul plaisir et **objectif d'accumuler des richesses matériels**. L'objectif derrière tout ça est de dépolitisé l'économie, en faire quelques chose de l'ordre du naturel et indépendant.
 
-L'un des dogme du néolibéralisme est la **marchandisation**. Dès lors qu'il y a un problème économique, la solution est de passer par un marché. Ainsi toute activité humaine devient marchandise. Le marché est le meilleur outil de coordination des activité économique. On peut voir que la marchandisation des services publics mène toujours aux mêmes résultats, à savoir, dégradation du service et augmentation du coût. Quand tout est réduit à de la marchandisation, c'est aussi, et surtout, l'aspect humain qui en patie. 
+L'un des dogme du néolibéralisme est la **marchandisation**. Dès lors qu'il y a un problème économique, la solution est de passer par un marché. Ainsi **toute activité humaine devient marchandise**. Le marché est le meilleur outil de coordination des activité économique. On peut voir que la marchandisation des services publics mène toujours aux mêmes résultats, à savoir, **dégradation du service** et **augmentation du coût**. Quand tout est réduit à de la marchandisation, c'est aussi, et surtout, l'aspect humain qui en patie. 
 
-Un autre dogme sur lequel s'appui le néolibéralisme, est la **concurrence libre** de pouvoir de domination. Cela passe par la loi de l'offre et de la demande. Le problème est que cela mène à une concentration de la richesse, et une hausse des inégalité. 
+Un autre dogme sur lequel s'appui le néolibéralisme, est la **concurrence libre** de pouvoir de domination. Cela passe par la loi de l'offre et de la demande. Le problème est que cela mène à une concentration de la richesse, et une hausse des inégalités. 
 
-Autre dogme, la **responsabilité individuel**. L'idée étant que la société est composée non pas de classes sociales, mais d’individus interagissant en fonction de leur intérêt propre. La **responsabilité est alors rejeté systématiquement sur les individus**. Les malades doivent éviter de l'être, tout comme les chômeurs qui doivent retourner au travail (comme si s'était un choix). 
+Autre dogme, la **responsabilité individuel**. L'idée étant que la société est composée non pas de classes sociales, mais d’individus interagissant en fonction de leur intérêt propre. La **responsabilité est alors rejeté systématiquement sur les individus**. Les malades doivent éviter de l'être, tout comme les chômeurs qui doivent retourner au travail (toujours comme si s'était un choix). 
 
-Or l**'économie est bien politique**, avec des groupes sociaux qui ont des intérêts divergents, et donc des conflits. Le rôle de l'état est donc bien de discipliner et contrôler le marché pour faire en sorte que l'activité privée appuie ce qui est souhaité par l'état, et non l'inverse.
+Or l'**économie est bien politique**, avec des groupes sociaux qui ont des intérêts divergents, et donc des conflits. Le rôle de l'état est donc bien de discipliner et contrôler le marché pour faire en sorte que l'activité privée appuie ce qui est souhaité par l'état, et non l'inverse.
 
 ### Qu'est-ce que la "politique de l'offre", comment fonctionne-elle et pourquoi est-ce une impasse ?
 Cette "politique" est mise en avant par Macron depuis 2017, mais elle date des années 80. Les néolibéraux impose l'idée que ces l'offre (la production) qui créé la demande, dicte la consommation. 
 
-L'état et les politiques publiques doivent ainsi favoriser avant toute chose les entreprises et leurs offres, plutôt que les gens et leurs demandes. On mise tout sur le fait que l'état doit aider le profit des entreprise. Ce qui implique une diminution des impôt pour les entreprises, les cotisations sociales des patrons, moins de normes, etc. 
+L'état et les politiques publiques doivent ainsi favoriser avant toute chose les entreprises et leurs offres, plutôt que les gens et leurs demandes. On mise tout sur le fait que l'état doit aider le profit des entreprise. Ce qui implique une diminution des impôts pour les entreprises, les cotisations sociales des patrons, moins de normes, etc. 
 
-Les mesures prises dans ce sens de réduction des cotisations aux entreprise, depuis 2017 par Macron coûtent 90 Md€/an. Au même titre que sont versées 211 Md€/an d'aide aux entreprises, sans contrepartie. Macron s'est aussi attaqué aux "coût du travail", à savoir les salaires et la protection sociales (retraite, assurance maladie etc...). Macron défend tout ça par le raisonnement qu'en permettant aux entreprises de faire davantage de profits, elles vont pouvoir investir plus, augmenter les salaires, et ainsi tout le monde sera gagnant... (théorie du ruissellement ?). 
+Les mesures prises dans ce sens de réduction des cotisations aux entreprise, depuis 2017 par Macron coûtent 90 Md€/an. Au même titre que sont versées 211 Md€/an d'aide aux entreprises, sans contrepartie. Macron s'est aussi attaqué aux "coût du travail", à savoir les salaires et la protection sociales (retraite, assurance maladie, chômage etc...). Macron défend tout ça par le raisonnement qu'en permettant aux entreprises de faire davantage de profits, elles vont pouvoir investir plus, augmenter les salaires, et ainsi tout le monde sera gagnant... (théorie du ruissellement ?). 
 
 Dans les faits,
 - le nombre d'entreprise défaillante a augmenté
 - l'investissement des entreprise a baissé. 
-- le nombre d'emploi n'a pas augmenté (pas de création d'emploi), le chômage a même augmenté (8.1% en 2026)
+- le nombre d'emploi n'a pas augmenté (pas de création d'emploi)
+- le chômage a augmenté (8.1% en 2026)
 - précarisation du travail, de plus en plus d'emploi au SMIC, et la moitié des emplois créé sont des entrepreneurs ou des contrat d’apprentissage. 
-- la consommation à régressé depuis quelques années. Si on prend en compte la hausse des prix comparé& à celle des salaire, on constate une baisse du salaire réel. 
+- la consommation à régressé depuis quelques années. Si on prend en compte la hausse des prix comparé à celle des salaires, on constate une baisse du salaire réel. 
 Conclusion, explosion des inégalités avec un taux record de pauvreté avec 15.4% (10 Millions de personnes pauvres en France). Contrairement à une réduction des inégalités en moyenne en Europe. 
 
 Le surplus de profit à profiter aux actionnaires, financiers et grandes fortunes, et non à augmenter les salaire et les investissement pour l'emploi.
 
 ### LFI défend un "gouvernement par les besoins" et une "politique de la demande". Comment cela fonctionne-t-il ?
+Ce sont d'abords les besoins humains, et les besoins de régénération des système économique, qui dictent la production.
+Les salaires sont à la base du pouvoir d'achat, et donc des demandes faites aux entreprises.  En **indexant les salaires sur l'inflation** (hausse des prix) et en **augmentant le SMIC**, les gens auront mécaniquement un pouvoir d'achat conservé.
+Rentre dans cette politique de la demande, la **retraite à 60 ans**, le **renforcement de la sécurité sociale**, l'augmentation des **investissements dans le secteur publique** et nationalisation de certaine usine/entreprise.
 
+### Comment peut-on financer les services publics ? La dette n'est-elle pas trop lourde pour ça ?
+La discours de la peur de la dette est utilisé pour justifié une austérité économique, et servir le néolibéralisme. La dette est **indispensable pour financer les investissements écologiques et des services publics**.  La fiscalité seule ne permet pas de trouver l'argent nécessaire à ces deux points, ce qui rend obligatoire le passage par la dette. 
+
+Depuis quelques années la confiance dans la dette française baisse. Cela est principalement dû à l'**incertitude économique induit par la dissolution de l'assemblé en 2024**, mais aussi dû aux **cadeaux fiscaux faits aux entreprises et aux plus riches**. La dette n'est donc pas utilisé à des fins d'investissements productifs, ce qui c**asse la confiance dans la dette française**. 
+
+De plus la dette est sous la pression des marchés financiers  L'état se retrouve donc à prendre des **décisions politiques en matière économique pour rassurer les marchés**, plutôt que de mener une véritable politique d'avenir. La dette public sert surtout à **discipliner les états et justifier l'austérité économique**. Cette logique est radicalement incompatible avec la bifurcation écologique qui nécessite des investissements massif, planifié et durable, et surtout qui n'ont pas comme objectif un rendement aussi élevé que ce qui est désiré par le capital privée. Tant que l'état sera sous la pression des marchés financiers, la bifurcation écologique ne pourra pas être conduite sérieusement.
+
+Il est donc impératif de sortir de la dépendance au marché ! Cela se fait par la mise en place d'un **pole public bancaire**. Ce pole permet à la collectivité de retrouver les moyens de décider quoi financer, et comment. **L'objectif n'est plus la rentabilité financière, mais la satisfaction des besoins**. 
+
+---
+
+## Épisode 6 : Comment vaincre l'extrême droite ?
+** Vidéo ** [Comment vaincre l'extrême droite ?]()
+
+### Qu'est-ce que l'Extrême Droite ? En quoi le RN y appartient-il pleinement malgré sa dédiabolisation ? 
+L'Extrême Droite est une famille politique spécifique à chaque pays. En France, elle a deux origines :
+- La première remonte à la révolution française, traditionaliste, ultra réactionnaire, intégriste religieux et qui veut revenir à la monarchie. Charles Moras en fait partie par exemple. Cette souche était très présent dans les années 80-90 avec les courant anti IVG notamment. Elle est toujours très présente dans l'armée et l'église catholique. Elle est aujourd'hui davantage présente chez Reconquête que le RN.
+- La deuxième souche émerge à la fin du XIX siècle autour de l’intellectuel Mauris Bares, de l'affaire Drefus. Cette Extrême Droite est davantage tourné vers le peuple, avec un nationalisme plus social, plus populaire. Mais il n'a rien de socialiste. Il est aujourd'hui très présent chez le RN. 
+
+Il y a toujours eu plusieurs stratégie à l'extrême droite. La première repose sur les **institutions** et cherche à prendre le pouvoir par les urnes, la voie légale. La seconde, repose sur la **violence**, comme avec Franco ou encore Pinochet, et encore pratiquer aujourd'hui par différent mouvance radicale de rue. La troisième se tourne vers une bataille **culturelle**, théorisé dans les années 70, qui se poursuit aujourd'hui avec Boloré et Stérain. Enfin, la stratégie du noyautage qui a très bien réussi aux US avec le mouvement MAGA qui vient enfermé l'état, l'armée ou encore de partie de droite (ex: les républicains noyautés par le mouvement MAGA). 
+
+Les Extrêmes Droite ne sont pas particulièrement unis sur leur programme, ils n'ont aps non plus de doctrine propre. En revanche, ils **convergent sur une vision du monde** de laquelle découle des projets de société et de politiques. Cette vision s'organise autour de :
+- la **sensation de déclin**, décadence de la communauté d'appartenance tel que la nation, la race blanche, la nation, qui renvoie à une identité, qui serait menacée
+- la **paranoïa** qui se décline de façon civilisationnelle, raciale ou identitaire. Consiste à voir dans les minorité (immigration, ), l'origine de tout leur problème.
+- la **haine de l'égalité,** et des mouvements qui le porte et remet en cause les hiérarchies considérées pour l'extrême droite comme un ordre naturel et légitime. 
+A partir de ces 3 points autour des quels les extrêmes droite s'accordent, ils ont comme projet commun de chercher à purifié la société afin d'éliminer les éléments (personnes) qui ne vont pas dans ce sens. 
+
+Le RN est bien d'extrême droite du fait que : 
+1. L'**histoire du courant FN/RN** avec lequel Marine Le Pen n'a jamais rompu, ni n'a jamais rien renié. Partie **fondé en 1972** par 3 souches militantes : 
+	- **collabo/SS** (pétainiste) ayant participé aux déportations
+	- **partisans de l'Organisation Armée Secrète** (OAS) orga terroriste ayant commis le plus d'attentat dans l'histoire de France (cf guerre d'Algérie)
+	- **militant fasciste** de l'après guerre des années 50 tel que **Ordre Nouveau** qui est à l'origine de la volonté de créé un partie politique afin d'en faire une vitrine électorale des extrêmes droite française
+
+2. L'**idéologie** que l'on retrouve dans son programme tel que la préférence nationale (anciennement priorité nationale) qui reste l'axe fondamentale du RN. Le projet porte sur l'amplification des discrimination déjà existante touchant les minorités (musulmans, bi-nationaux, étrangés)
+3. Les **alliances internationales** du RN, qui ne sont faites qu'avec des parties d’extrême droite, tel que :
+	- La *Lega* de Matteo Salvini en Itlaie
+	- Le partie *Fidesz* de Victor Orban en Hongrie
+	- l'*AFD* en Allemagne jusqu'à récemment
+	- *VOX* en Espagne
+	- Le *Chega* au Portugal
+	Aucune des ces organisations n'est classé à droite, toutes sont à l'extrême droite dans leur pays respectif. De plsu Le RN s'est toujours félicité des victoire de Bolsonaro (Brésil) ou encore Trump (US), et a entretenue des liaisons avec Poutine (Russie).
+4. **Affinité avec des mouvances extra-parlementaire**. Le RN a récupéré d'anciens membres de ces groupes dans le RN. De plus, des révélations de Médiapart mettent en évidences de nombreux liens étroits entre Marine Le Pen et les groupes et cadres qui gravitent autour du Groupe Union Défense (GUD), mouvance nationaliste révolutionnaire. 
+
+### Comment expliquer la montée de l'Extrême Droite ? Pourquoi parle-t-on d'un processus d'extrême-droitsiation ? Comment se matérialise-t-il ? 
